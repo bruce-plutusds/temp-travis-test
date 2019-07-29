@@ -20,3 +20,6 @@ script:
   - npm run lint
   - npm run test
 
+notifications:
+  email:
+    - bruce@plutusds.com
