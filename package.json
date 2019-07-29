@@ -9,7 +9,8 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "test": "truffle test"
+    "test": "truffle test",
+    "lint": "solium -d contracts/"
   },
   "repository": {
     "type": "git",
